@@ -4,6 +4,7 @@ title: Organizujte Savršeno Gledanje Utakmice bez Gubljenja Živaca
 subtitle: Kako osigurati da svi znaju gdje, kada i koliko vas dolazi na Public Viewing
 tags: organizacija događaja, public viewing
 author: ijoin.app
+language: bs
 ---
 
 # Organizujte Savršeno Gledanje Utakmice bez Gubljenja Živaca

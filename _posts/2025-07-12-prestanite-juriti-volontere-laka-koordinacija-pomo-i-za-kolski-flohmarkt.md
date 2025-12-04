@@ -4,6 +4,7 @@ title: Prestanite Juriti Volontere - Laka Koordinacija Pomoći za Školski Flohm
 subtitle: Kako ijoin.app maksimalno pojednostavljuje prijavu volontera za događaje zajednice
 tags: [koordinacija volontera, školski flohmarkt]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Juriti Volontere - Laka Koordinacija Pomoći za Školski Flohmarkt

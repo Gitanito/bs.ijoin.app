@@ -4,6 +4,7 @@ title: Kako Organizovati Ekskluzivnu Pop-up Večeru Bez Muke
 subtitle: Prijave za događaje- Veća odazivnost za vaše tajne večere i ekskluzivne susrete
 tags: [organizacija događaja, pop-up večera]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Događaja- Maksimalan Odaziv za Vaše Ekskluzivne Pop-up Susrete

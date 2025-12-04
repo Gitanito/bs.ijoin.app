@@ -4,6 +4,7 @@ title: Organizacija Planinarskih i Biciklističkih Tura Bez Muke
 subtitle: Kako osigurati maksimalan odziv na vašu sljedeću avanturu u prirodi
 tags: [organizacija događaja, planinarske ture]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Odgovore - Maksimalan Odziv za Vašu Sljedeću Planinarsku ili Biciklističku Turu

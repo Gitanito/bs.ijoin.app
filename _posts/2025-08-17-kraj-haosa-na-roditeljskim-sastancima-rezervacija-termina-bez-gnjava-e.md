@@ -4,6 +4,7 @@ title: Kraj haosa na roditeljskim sastancima - Rezervacija termina bez gnjavaže
 subtitle: Kako ijoin.app pojednostavljuje prijavu roditelja za određene termine
 tags: [roditeljski sastanak, online prijava]
 author: ijoin.app
+language: bs
 ---
 # Kraj haosa na roditeljskim sastancima - Rezervacija termina bez gnjavaže
 

@@ -4,6 +4,7 @@ title: Prestanite gubiti polaznike - Kako jednostavno prijaviti goste za vaš ku
 subtitle: Maksimalna prijava za radionice i događaje bez komplikovanih registracija
 tags: organizacija događaja, prijava za kurseve
 author: ijoin.app
+language: bs
 ---
 
 # Želite Maksimizirati Prijave za Vaš Töpferski Kurs? Evo Kako!

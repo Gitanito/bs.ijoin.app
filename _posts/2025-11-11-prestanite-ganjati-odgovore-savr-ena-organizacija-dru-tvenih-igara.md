@@ -4,6 +4,7 @@ title: Prestanite Ganjati Odgovore - Savršena Organizacija Društvenih Igara
 subtitle: Kako osigurati maksimalan odziv za vašu sedmičnu večer društvenih igara bez muke
 tags: [organizacija događaja, društvene igre]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Odgovore - Savršena Organizacija Društvenih Igara

@@ -4,6 +4,7 @@ title: Organizacija After-Work Druženja Bez Muke i Bez Registracije
 subtitle: Kako dobiti brzi pregled učesnika za sljedeće piće nakon posla
 tags: [organizacija događaja, after-work]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite juriti za odgovorima - Osigurajte stol za vaše After-Work Piće

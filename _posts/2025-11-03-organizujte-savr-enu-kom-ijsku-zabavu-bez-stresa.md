@@ -4,6 +4,7 @@ title: Organizujte Savršenu Komšijsku Zabavu Bez Stresa
 subtitle: Kako jednostavno prikupiti prijave i koordinirati zadatke za vaš događaj
 tags: [organizacija događaja, komšijska zabava]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Komšijske Zabave - Besplatno i Bez Registracije

@@ -4,6 +4,7 @@ title: Organizujte Kreativni Workshop Bez Muke
 subtitle: Prijave za vaš događaj nikada nisu bile lakše uz ijoin.app
 tags: [organizacija događaja, besplatni workshop]
 author: ijoin.app
+language: bs
 ---
 
 # Organizujte Kreativni Workshop Bez Muke

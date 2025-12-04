@@ -4,6 +4,7 @@ title: Organizujte Spontano Igralište Bez Muke i Grupa
 subtitle: Kako roditelji konačno dobijaju brze potvrde za dječije aktivnosti i izlete
 tags: [organizacija događaja, roditeljstvo]
 author: ijoin.app
+language: bs
 ---
 
 # Spontane Dječije Aktivnosti - Brze Potvrde Bez Beskonačnih Poruka

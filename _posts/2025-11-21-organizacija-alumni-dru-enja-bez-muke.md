@@ -4,6 +4,7 @@ title: Organizacija Alumni Druženja Bez Muke
 subtitle: Kako do savršenog studentskog okupljanja uz maksimalan odziv
 tags: [alumni, organizacija događaja]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Alumni Druženja Bez Muke

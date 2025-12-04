@@ -4,6 +4,7 @@ title: Kako Lako Organizovati Prevoz za Sportske Događaje i Udruženja
 subtitle: Prestanite sa beskrajnim WhatsApp porukama - Jednostavno rješenje za koordinaciju prevoza
 tags: fudbal, prevoz
 author: ijoin.app
+language: bs
 ---
 # Prestanite sa beskrajnim porukama- Organizacija Fahrgemeinstva bez Stresa
 

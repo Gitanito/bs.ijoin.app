@@ -4,6 +4,7 @@ title: Kako Organizovati Savršenu Pre-Party Zabavu Bez Haosa
 subtitle: Maksimalan odziv gostiju za vaš događaj bez registracije i komplikacija
 tags: [organizacija događaja, pozivnice]
 author: ijoin.app
+language: bs
 ---
 # Pozovite Prijatelje na Pre-Party Prije Koncerta - Lako i Brzo!
 

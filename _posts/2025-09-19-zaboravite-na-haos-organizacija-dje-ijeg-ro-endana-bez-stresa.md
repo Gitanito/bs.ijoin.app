@@ -4,6 +4,7 @@ title: Zaboravite na haos- Organizacija dječijeg rođendana bez stresa
 subtitle: Kako dobiti brze i pouzdane potvrde dolaska za dječije proslave
 tags: [organizacija događaja, pozivnice]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Rođendana- Kako do precizne liste gostiju u 3 klika

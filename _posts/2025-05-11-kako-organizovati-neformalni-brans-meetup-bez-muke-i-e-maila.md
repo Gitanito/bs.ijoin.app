@@ -4,6 +4,7 @@ title: Kako Organizovati Neformalni Brans-Meetup Bez Muke i E-maila
 subtitle: Maksimizirajte dolazak na vaše poslovne događaje bez zahtjeva za registracijom
 tags: [organizacija događaja, poslovni meetup]
 author: ijoin.app
+language: bs
 ---
 # Prestanite Ganjati Potvrde - Brza Organizacija Poslovnih Meetupa i Događaja
 

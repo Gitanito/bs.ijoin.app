@@ -4,6 +4,7 @@ title: Organizujte Piknik u Parku u 5 Minuta - Bez Muke
 subtitle: Kako dobiti maksimalan odziv za spontane događaje bez registracije
 tags: [organizacija događaja, spontana okupljanja]
 author: ijoin.app
+language: bs
 ---
 # Organizacija Spontanog Okupljanja - Brzo, Lako i Bez Logina
 

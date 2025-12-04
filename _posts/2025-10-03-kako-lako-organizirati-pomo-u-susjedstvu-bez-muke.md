@@ -4,6 +4,7 @@ title: Kako Lako Organizirati Pomoć u Susjedstvu - Bez Muke
 subtitle: Otkrijte tajnu maksimalnog odziva za spontane akcije čišćenja i pomoći
 tags: [organizacija događaja, susjedska pomoć]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Odgovore - Brza Organizacija Susjedske Pomoći i Akcija Čišćenja

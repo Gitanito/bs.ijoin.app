@@ -4,6 +4,7 @@ title: Kako Organizovati Besplatne Radionice bez Muke oko Prijava
 subtitle: Maksimizirajte odziv za Skill-Share Sesije- Bez Registracije, Bez Komplikacija
 tags: [organizacija događaja, skill-share]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Prijave- Kako Povećati Odziv za Vaše Skill-Share Sesije

@@ -4,6 +4,7 @@ title: Organizujte Savršeno Spontano Druženje - Bez Muke
 subtitle: Kako do maksimalnog odziva za roštilje i zabave bez registracije gostiju
 tags: [organizacija događaja, roštilj]
 author: ijoin.app
+language: bs
 ---
 
 # Zaboravite na Kaos – Organizacija Spontanih Roštilja Nikada Nije Bila Lakša

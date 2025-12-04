@@ -4,6 +4,7 @@ title: Kako Osigurati Maksimalan Odaziv na Vaš Poslovni Stammtisch
 subtitle: Organizacija Mjesečnih Sastanaka Poduzetnika Bez Muke i E-Mail Poplava
 tags: [poslovni sastanci, organizacija događaja]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Poslovnih Sastanaka i Stammtischa: Jednostavno, Brzo i Bez Registracije

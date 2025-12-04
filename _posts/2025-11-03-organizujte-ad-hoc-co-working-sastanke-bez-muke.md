@@ -4,6 +4,7 @@ title: Organizujte Ad-Hoc Co-Working Sastanke Bez Muke
 subtitle: Freelance Produktivnost- Lako upravljanje događajima bez registracije i aplikacija
 tags: [coworking, događaji]
 author: ijoin.app
+language: bs
 ---
 # Organizujte Ad-Hoc Co-Working Sastanke Bez Muke
 

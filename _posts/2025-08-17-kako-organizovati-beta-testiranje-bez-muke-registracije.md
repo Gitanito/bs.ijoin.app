@@ -4,6 +4,7 @@ title: Kako Organizovati Beta Testiranje Bez Muke Registracije
 subtitle: Maksimalna odzivnost za vaše startup događaje - jednostavno i bez naloga
 tags: [beta testiranje, organizacija događaja]
 author: ijoin.app
+language: bs
 ---
 
 # Privucite Najbolje Beta Testere - Bez Formulara i Frustracije

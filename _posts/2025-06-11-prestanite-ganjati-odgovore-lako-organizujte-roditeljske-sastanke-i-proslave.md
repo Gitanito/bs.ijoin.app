@@ -4,6 +4,7 @@ title: Prestanite Ganjati Odgovore- Lako Organizujte Roditeljske Sastanke i Pros
 subtitle: Kako ijoin.app maksimalno povećava odziv na školske i sportske događaje
 tags: [organizacija događaja, roditeljski sastanci]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Odgovore: Lako Organizujte Roditeljske Sastanke i Proslave

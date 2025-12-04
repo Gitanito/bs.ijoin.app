@@ -4,6 +4,7 @@ title: Organizacija Spontanih Izlazaka - Bez Muke i Grupa Chatova
 subtitle: Kako jednostavno saznati ko dolazi na Last-Minute Okupljanje
 tags: [organizacija događaja, Bosanski]
 author: ijoin.app
+language: bs
 ---
 # Organizacija Spontanih Izlazaka - Bez Muke i Grupa Chatova
 

@@ -4,6 +4,7 @@ title: Kako Organizovati Uspješnu Studentsku Grupu za Učenje bez Muke
 subtitle: Maksimizirajte prisustvo na sastancima za ispite i projekte
 tags: [organizacija događaja, studentske grupe]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Studentskih Grupa za Učenje- Ključ za Osvajanje Ispita

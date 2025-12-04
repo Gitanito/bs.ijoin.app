@@ -4,6 +4,7 @@ title: Kako Organizovati Tematsku Noć bez Muke i Maksimalno Povećati Odziv
 subtitle: Besplatno rješenje za biblioteke i zajednice koje žele jednostavnu prijavu gostiju
 tags: event-organizacija, besplatni-alati
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite Ganjati Prijave - Kako [ijoin.app](https://ijoin.app/index-bs.html) Olakšava Organizaciju Tematskih Večeri

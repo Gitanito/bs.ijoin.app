@@ -4,6 +4,7 @@ title: Kako Organizovati Prevoz za Izlet Bez Beskonačnih Emailova
 subtitle: Maksimalna efikasnost u koordinaciji roditelja i vozača za školske izlete
 tags: [organizacija izleta, koordinacija prevoza]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite sa Email Haosom- Organizacija Prevoza za Izlete je Sada Laka sa ijoin.app

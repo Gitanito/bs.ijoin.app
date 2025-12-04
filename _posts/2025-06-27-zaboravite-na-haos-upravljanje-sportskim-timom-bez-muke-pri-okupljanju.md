@@ -4,6 +4,7 @@ title: Zaboravite na haos- Upravljanje sportskim timom bez muke pri okupljanju
 subtitle: Kako treneri i menadžeri timova postižu maksimalnu prisutnost bez gnjavaže s registracijom
 tags: [organizacija sportskog tima, potvrda prisutnosti]
 author: ijoin.app
+language: bs
 ---
 
 # Prestanite juriti roditelje i fokusirajte se na trening - Digitalna organizacija sportskog tima

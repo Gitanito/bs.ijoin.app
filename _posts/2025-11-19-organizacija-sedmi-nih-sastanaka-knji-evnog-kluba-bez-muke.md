@@ -4,6 +4,7 @@ title: Organizacija Sedmičnih Sastanaka Književnog Kluba Bez Muke
 subtitle: Kako dobiti brze potvrde dolaska za vaš književni klub - bez registracije i gnjavaže
 tags: [književni klub, organizacija događaja]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija Sedmičnih Sastanaka Književnog Kluba Bez Muke

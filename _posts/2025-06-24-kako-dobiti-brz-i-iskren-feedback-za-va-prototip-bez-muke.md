@@ -4,6 +4,7 @@ title: Kako Dobiti Brz i Iskren Feedback za Vaš Prototip - Bez Muke
 subtitle: Organizacija sesija za testiranje proizvoda je sada jednostavna i efikasna
 tags: [organizacija događaja, UX feedback]
 author: ijoin.app
+language: bs
 ---
 
 # Organizacija UX Feedback Sesija - Maksimalan Odziv, Minimalan Stres
